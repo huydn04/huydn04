@@ -31,7 +31,7 @@
 
 <br>
 
-<h2 align="center">📑 My Favorites Quote 📑</h2>
+<h2 align="center">📑 Introduce about me 📑</h2>
 <br>
 <a href="#" target="_blank">
   <img src="svg/duchuy-quotes.svg" width="846" height="150" alt="trunghieu" />
