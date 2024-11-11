@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Nguyễn Đức Huy</h1>
-<h3 align="center">A backend developer from Vietnam</h3>
+<!-- <h1 align="center">Hi 👋, I'm Nguyễn Đức Huy</h1> -->
+<a href="#" target="_blank">
+  <img src="svg/duchuy.svg" width="1200" alt="duchuy" />
+</a>
+<!-- <h3 align="center">A backend developer from Vietnam</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huydn04&label=Profile%20views&color=0e75b6&style=flat" alt="huydn04" /> </p>
 
