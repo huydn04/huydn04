@@ -19,13 +19,11 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100043437219905" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trunghieu-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="huyduc-facebook" />
   </a>
-  <a href="www.linkedin.com/in/trunghieu1501" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trunghieu-linkedin" />
-  </a>
+
   <a href="mailto:luckyguy52431@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trunghieu-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="huyduc-email" />
   </a>
 </div>
 
@@ -34,6 +32,6 @@
 <h2 align="center">📑 Introduce about me 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/duchuy-quotes.svg" width="846" height="150" alt="trunghieu" />
+  <img src="svg/duchuy-quotes.svg" width="846" height="150" alt="huyduc" />
 </a>
 
