@@ -78,7 +78,7 @@
 
 			<div class="container">
         <video class="video" controls width="600">
-  <source src="https://www.tiktok.com/@viralcapcuttemplates1/video/7272351742145219872?is_from_webapp=1&sender_device=pc" type="video/mp4">
+  <source src=`https://www.tiktok.com/@viralcapcuttemplates1/video/7272351742145219872?is_from_webapp=1&sender_device=pc` type="video/mp4">
 </video>
 				<div class="greeting">
           Hi 👋!<br/>I'm Nguyễn Đức Huy<br/>A backend developer from Vietnam
