@@ -1,0 +1,12 @@
+# Ignore all .env files (config files, sensitive data)
+/private_files/
+
+
+
+
+
+# Ignore all node_modules folders
+node_modules/
+
+# Ignore log files
+*.log
