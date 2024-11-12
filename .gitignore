@@ -1,5 +1,5 @@
 # Ignore all .env files (config files, sensitive data)
-/private_files/
+# /private_files/
 
 
 
