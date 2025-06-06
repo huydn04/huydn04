@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **luckguy52431@gmail.com**
 
-- ⚡ Fun fact: **I'm quite introverted ^^**
+/*- ⚡ Fun fact: **I'm quite introverted ^^*/
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
